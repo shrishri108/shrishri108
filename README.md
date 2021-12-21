@@ -2,7 +2,7 @@
 
 -I’m interested in ... Python['Data-Science','Machine-Learning']
 
--I’m currently learning [thisfile.iloc[1].split(' ... ')[1]]
+-I’m currently learning Data-Analytics
 
 -Find me : icode.hara@gmail.com
 
