@@ -1,10 +1,10 @@
 -Hi, I’m Abhishek (@shrishri108)
 
--I’m interested in ... Python['Data-Science','Machine-Learning']
+-I’m interested in ... Python['Data-Engineering','Machine-Learning']
 
--I’m currently learning Data-Analytics
+-I’m currently working on  Data-Engineering
 
--Find me : icode.hara@gmail.com
+-Find me : hara.xlsx@gmail.com
 
 <!---
 shrishri108/shrishri108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
