@@ -27,4 +27,4 @@ rebuilt from scratch as a public reference.
 - Building an on-device voice-driven expense tracker for Android
 - Occasional business case competitions
 
-📫 **hara.xlsx@gmail.com** · 🌐 [abhisheksingh.io](https://abhisheksingh.io) · [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
+📫 **hara.xlsx@gmail.com** · 🌐 [abhisheksingh.io](https://abhisheksingh.io) · [LinkedIn](https://www.linkedin.com/in/shrishri108)
